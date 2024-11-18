@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/sara_wanggg/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
 
-I am a CS student currently pursuing a bachelor degree in Carleton College. 
+Computer Science student at Carleton College with hands-on experience in full-stack development and machine learning. I've worked on projects ranging from AI-powered travel safety applications to ML model development using TensorFlow and scikit-learn. Currently exploring opportunities at the intersection of software development and artificial intelligence!
 
 ### Talking about Personal Stuff:
 
