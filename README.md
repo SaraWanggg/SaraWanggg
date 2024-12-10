@@ -6,6 +6,8 @@
 
 Computer Science student at Carleton College with hands-on experience in full-stack development and machine learning. I've worked on projects ranging from AI-powered travel safety applications to ML model development using TensorFlow and scikit-learn. Currently exploring opportunities at the intersection of software development and artificial intelligence!
 
+### What I have just done:
+
 UNICC Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for UNICC for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/UN-ICC/Cornell-Capstone-Project-Fall-Semester-2024
 
 ### Talking about Personal Stuff:
