@@ -8,7 +8,14 @@ Computer Science student at Carleton College with hands-on experience in full-st
 
 ### What I have just done:
 
-UNICC Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for UNICC for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/UN-ICC/Cornell-Capstone-Project-Fall-Semester-2024
+UNICC Machine Learning Challenge Project (Break Through Tech AI Program): 
+Check out my team's project repository for the real-world ML project we worked on for UNICC for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/UN-ICC/Cornell-Capstone-Project-Fall-Semester-2024
+
+This project aims to develop an AI-driven BOT platform powered by Large Language Models (LLMs). The platform is designed to assist:
+- Policymakers
+- Research Students
+- Other Stakeholders
+
 
 ### Talking about Personal Stuff:
 
